@@ -1,3 +1,5 @@
+[[Ruby on Rails] チュートリアル的にToDoアプリを作ってみた話](https://qiita.com/tosite0345/items/ec5a238ef09bc6996098) を参考に作成した｡
+
 # README
 
 This README would normally document whatever steps are necessary to get the
